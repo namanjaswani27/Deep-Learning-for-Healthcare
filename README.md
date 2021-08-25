@@ -1,5 +1,6 @@
 # Deep-Learning-for-Healthcare
-This project part of a course `Hackathon` from **Deep Learning for Computer Vision(DLCV)** at IISc
+This project part of a course `Hackathon` from **Deep Learning for Computer Vision(DLCV)** at IISc.
+Detect and match patients from before and after operation images.
 
 ## Winner !! of DLCV Hackathon 2021
 
