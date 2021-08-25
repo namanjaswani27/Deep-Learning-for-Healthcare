@@ -1,8 +1,9 @@
 # Deep-Learning-for-Healthcare
 This project part of a course `Hackathon` from **Deep Learning for Computer Vision(DLCV)** at IISc.
-Detect and match patients from before and after operation images.
 
-## Winner !! of DLCV Hackathon 2021
+`Detect and match patients from before and after operation images.`
+
+### `Winner !!` of DLCV Hackathon 2021
 
 # Introduction
 An NGO funds cataract surgeries for the underprivileged. They fund eye hospitals on basis of free surgeries performed. Funds are released, based on the number of operations performed.
