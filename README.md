@@ -22,6 +22,7 @@ Pre-op and post-op photographs will be provided. (See figure below) The NGO need
 The post-operative pictures captured, have a part of the patients' face covered with a patch. The existing facial recognition algorithms available require all the parts of the face to be visible. Hence when a part of the face is covered with the patch, these algorithms are not very effective.
 
 The problem is to find a solution that will be able to detect and match the patients from pre-op and post-op images to confirm it is the same patient (even when a part of the face is covered with a patch)
+![alt text](https://github.com/namanjaswani27/Deep-Learning-for-Healthcare/blob/main/sample_images.png?raw=true)
 
 
 # Brief Approach
@@ -33,7 +34,7 @@ The problem is to find a solution that will be able to detect and match the pati
 **Macro F-1 score** of our final ensemble :  `0.69462`
 
 
-![alt text](https://github.com/namanjaswani27/Deep-Learning-for-Healthcare/blob/main/sample_images.png?raw=true)
+
 
 
 
