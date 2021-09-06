@@ -15,7 +15,7 @@ The NGO then verifies the pre-op and post-op images to ensure that the surgery h
 They need a system that will help in comparing these photographs to highlight cases with a high probability of fraud. These can then be further investigated manually.
 
 # Problem statement
-`Kindly refer to the attached report(pdf) details regarding our approach`
+`Kindly refer to the attached report(pdf) for details regarding our approach`
 
 Pre-op and post-op photographs will be provided. (See figure below) The NGO needs a system that will help compare the pre and post-operative images and identify that this is the same patient with a high level of confidence.
 
